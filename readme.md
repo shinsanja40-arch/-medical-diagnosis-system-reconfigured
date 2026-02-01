@@ -95,3 +95,4 @@ This system is for research and educational purposes only. It is NOT a substitut
 This documentation matches the logic in multi_ai_medical_diagnosis.py and cli.py. The sequential inquiry protocol and stagnation detection (10 rounds) are fully implemented and described.
 
 (이 문서는 업로드된 코드의 순차 문진 프로토콜 및 정체 감지 로직과 완벽히 일치합니다.)
+The core ideas and algorithms were developed by humans, while the implementation and coding were carried out by Artificial Intelligence.
